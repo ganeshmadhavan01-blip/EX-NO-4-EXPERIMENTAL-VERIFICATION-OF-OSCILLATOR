@@ -1,12 +1,13 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
-4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE:
+
+DATE: 28-10-25
  ##AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
- ##THEORY:
- ##RC PHASE SHIFT OSCILLATOR
+ # THEORY:
+ # RC PHASE SHIFT OSCILLATOR
+
 RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
 The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
 ---
@@ -58,15 +59,11 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+<img width="541" height="201" alt="image" src="https://github.com/user-attachments/assets/656e4928-b7f3-4de3-85dc-628b99798837" />
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="601" height="669" alt="image" src="https://github.com/user-attachments/assets/0d15e809-afef-4cbe-8335-2bee47620ce2" />
 
 
 ---
@@ -124,16 +121,11 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="517" height="255" alt="image" src="https://github.com/user-attachments/assets/327ca3eb-8fd9-48ef-9899-efdcc170264c" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="677" height="618" alt="image" src="https://github.com/user-attachments/assets/98965852-1981-4523-b417-a420e74502b8" />
 
 
 ---
